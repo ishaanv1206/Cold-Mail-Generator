@@ -28,8 +28,8 @@ A **Cold Email Generator** built with Streamlit that allows you to generate pers
 4. **Copy the email**: The output is shown in Markdown format. Copy it and use it for your applications!
 
 ## 🖼 Screenshots
-![Alt text](https://i.postimg.cc/SQcgV0M1/colmailgenerator.png "")
-![Alt text](https://i.postimg.cc/GtzYNjrt/coldmailgeneratorsecondimage.png"")
+![Alt text](https://i.postimg.cc/SQcgV0M1/colmailgenerator.png)
+![Alt text](https://i.postimg.cc/GtzYNjrt/coldmailgeneratorsecondimage.png)
 
 
 
